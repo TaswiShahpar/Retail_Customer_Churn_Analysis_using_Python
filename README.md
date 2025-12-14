@@ -228,7 +228,7 @@ Retail-Customer-Churn-Analysis/
 
 ## Contact
 
-- **Your Name**: Sanjay Krishna MV  
-- **GitHub**: https://github.com/SANJAY-KRISHNA-MV  
-- **LinkedIn**: https://www.linkedin.com/in/sanjay-krishna-mv/
-- **Email**: sanjaymvkrishna@gmail.com
+- **Your Name**: Taswi Shahpar MV  
+- **GitHub**: https://github.com/TaswiShahpar-MV  
+- **LinkedIn**: https://www.linkedin.com/in/TaswiShahpar-mv/
+- **Email**: taswishahpar1111@gmail.com
