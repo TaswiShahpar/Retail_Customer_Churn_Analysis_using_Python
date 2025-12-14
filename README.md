@@ -120,7 +120,7 @@ The Tuned Gradient Boosting Classifier was chosen as the final model due to its 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/Retail-Customer-Churn-Analysis.git
+git clone https://github.com/TaswiShahpar/Retail-Customer-Churn-Analysis.git
 cd Retail-Customer-Churn-Analysis
 ```
 
