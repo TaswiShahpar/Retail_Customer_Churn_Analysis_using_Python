@@ -228,7 +228,7 @@ Retail-Customer-Churn-Analysis/
 
 ## Contact
 
-- **Your Name**: Taswi Shahpar MV  
-- **GitHub**: https://github.com/TaswiShahpar-MV  
-- **LinkedIn**: https://www.linkedin.com/in/TaswiShahpar-mv/
+- **Your Name**: Taswi Shahpar  
+- **GitHub**: [https://github.com/TaswiShahpar-MV ](https://github.com/TaswiShahpar) 
+- **LinkedIn**: [https://www.linkedin.com/in/TaswiShahpar-mv/](https://www.linkedin.com/in/taswi-shahpar-900070237/)
 - **Email**: taswishahpar1111@gmail.com
