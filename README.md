@@ -223,12 +223,16 @@ streamlit run src/visualization_app.py
 
 ## 💡 Business Insights
 
-- **[X]%** of customers churned — representing **£[X]** in lost revenue
+- **56.6%** of customers churned — representing **£3391383.66** in lost revenue
 - **Recency** is the strongest churn predictor — customers inactive for 90+ days
-  have [X]x higher churn probability
-- **High Value segment** ([X] customers) has lowest churn at [X]%
-- **[Country]** shows highest churn rate at [X]% despite [X] customers
-- Customers with tenure under 90 days churn at [X]% — onboarding gap identified
+  churn at **71.07%** vs only **30.99%** for active customers — **2.3x higher      risk**
+
+- **High Value segment** (409 customers) has lowest churn at **7.58%** —
+  frequent, high-spending customers are most loyal
+- **Sweden** shows highest churn rate at **73.68%** despite only 19 customers —
+  regional retention strategy needed
+- Customers in **6-12 month tenure** churn at **60.90%** — engagement gap
+  identified at the 6-month mark, not onboarding
 
 ---
 
